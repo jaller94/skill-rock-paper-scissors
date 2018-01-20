@@ -1,5 +1,5 @@
 ## Rock Paper Scissors
-Play rock paper scissors.
+Play rock paper scissors with Mycroft.
 
 ## Description
 
@@ -11,4 +11,3 @@ Play rock paper scissors.
 
 ## Credits
 Christian Paul
-
